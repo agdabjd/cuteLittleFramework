@@ -1,4 +1,4 @@
-#cuteLittleFramework
+# cuteLittleFramework
 
 Este é um projeto que visa criar um mini framework como atividade 3 da matéria de Desenvolvimento de Aplicações para WEB II, no dia 05/03/2026.
 
